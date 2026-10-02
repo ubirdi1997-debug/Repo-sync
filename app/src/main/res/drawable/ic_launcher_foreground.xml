@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Ambient Glow behind core glyph -->
+    <path
+        android:pathData="M34,42 C38,32 50,30 56,36 C62,42 70,42 74,38"
+        android:strokeWidth="10"
+        android:strokeColor="#20818CF8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Left Code Bracket < / { -->
+    <path
+        android:pathData="M40,36 L30,48 L30,52 L36,54 L30,56 L30,60 L40,72"
+        android:strokeWidth="4"
+        android:strokeColor="#A5B4FC"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Right Code Bracket } -->
+    <path
+        android:pathData="M68,36 L78,48 L78,52 L72,54 L78,56 L78,60 L68,72"
+        android:strokeWidth="4"
+        android:strokeColor="#A5B4FC"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Center Fluid Vibe Wave -->
+    <path
+        android:pathData="M44,56 C48,46 54,46 56,54 C58,62 64,62 66,52"
+        android:strokeWidth="4"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Spark / Star ✦ at top right -->
+    <path
+        android:fillColor="#F472B6"
+        android:pathData="M70,30 C70,33 72,35 75,35 C72,35 70,37 70,40 C70,37 68,35 65,35 C68,35 70,33 70,30 Z" />
+
+    <!-- Center pulse dot -->
+    <path
+        android:fillColor="#4ADE80"
+        android:pathData="M54,68 A2.5,2.5 0 1,0 54.1,68 Z" />
+
+</vector>

@@ -1,0 +1,6 @@
+{
+  "name": "Forge by uSafe",
+  "description": "AI vibe coding studio and cloud DevOps forge with BYOK inference models, GitHub commit sync, SSH servers, and multi-device cloud storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
